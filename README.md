@@ -1,4 +1,4 @@
-#Acionamento por Infravermelho com Dispositivo Atuador Genérico
+# Acionamento por Infravermelho com Dispositivo Atuador Genérico
 
 ***Dispositivo residencial restinado a fabricação no parque industriário
 brasileiro.***
