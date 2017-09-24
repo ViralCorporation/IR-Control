@@ -1,5 +1,4 @@
-<span id="_Hlk481319303" class="anchor"></span>***Acionamento por
-Infravermelho com Dispositivo Atuador Genérico***
+#Acionamento por Infravermelho com Dispositivo Atuador Genérico
 
 ***Dispositivo residencial restinado a fabricação no parque industriário
 brasileiro.***
@@ -20,14 +19,14 @@ Sobral, Ceará
 
 julio\_flima@hotmail.com;
 
-*Abstract*—This report proposes to present the development of a
+<b>*Abstract*—This report proposes to present the development of a
 residential automation destined to be manufactured in the Brazilian
 industry. They were used to carry out the project by developing free
 software like Arduino IDE. During the report, several development
 environments will be presented, targeting not only the hardware, but
-also the software and the results of the final object.
+also the software and the results of the final object. 
 
-*Key-words: home automation; Arduino; IRremote; TSOP.*
+*Key-words: home automation; Arduino; IRremote; TSOP.*</b>
 
 Descrição e Objetivos
 =====================
@@ -124,11 +123,11 @@ atuais (ROCHOL, 2012).
 Controle e Acionamentos
 -----------------------
 
-<img src="media/image1.png" width="336" height="232" />
+![image](https://user-images.githubusercontent.com/9977351/30784865-98b3ef6a-a133-11e7-8d77-a1e5c94acf53.png)
 
 Fig. 1: Circuito de Potência e Acionamento
 
-<img src="media/image2.png" width="336" height="195" />
+![image](https://user-images.githubusercontent.com/9977351/30784884-c40f484e-a133-11e7-8b65-61cde11d77a6.png)
 
 Fig. 2: Circuito Lógico e de Controle
 
@@ -154,7 +153,7 @@ manipulação dos dados passados do TSOP para a porta digital. Na figura 3
 do TSOP.
 
 <span id="_Hlk481414933"
-class="anchor"></span><img src="media/image3.png" width="320" height="389" />
+class="anchor"></span>![image](https://user-images.githubusercontent.com/9977351/30784891-d2e207e4-a133-11e7-8e21-9c1d6a72d007.png)
 
 Fig. 3: IDE Arduino
 
@@ -217,10 +216,10 @@ espaço a fim de que o dispositivo pudesse ser encaixado na caixa
 idealizada como mostrado na figura 6.
 
 <span id="_Hlk481415175"
-class="anchor"></span><img src="media/image4.jpeg" width="336" height="163" />Fig.
+class="anchor"></span>![image](https://user-images.githubusercontent.com/9977351/30784895-d611d76e-a133-11e7-86d3-912c711d91d2.png)Fig.
 4: Protótipo do Circuito Lógico e de Controle, Vista Frontal
 
-<img src="media/image5.jpeg" width="334" height="169" />
+![image](https://user-images.githubusercontent.com/9977351/30784897-d93f5542-a133-11e7-803e-9c0f3ff29e88.png)
 
 Fig. 5: Protótipo do Circuito Lógico e de Controle, Vista Traseira
 
@@ -233,7 +232,7 @@ mantendo apenas aquilo é necessário, causando de pouca a nenhuma
 interferência nos ambientes em que foram inseridos.
 
 <span id="_Hlk481415487"
-class="anchor"></span><img src="media/image6.png" width="301" height="249" />
+class="anchor"></span>![image](https://user-images.githubusercontent.com/9977351/30784899-dd2b1178-a133-11e7-8ef9-dbb2fda54613.png)
 
 Fig. 6: Protótipo do Circuito Lógico e de Controle, Vista Traseira
 
