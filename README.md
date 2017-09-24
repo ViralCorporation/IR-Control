@@ -125,11 +125,10 @@ atuais (ROCHOL, 2012).
 Controle e Acionamentos
 -----------------------
 
-![image](https://user-images.githubusercontent.com/9977351/30784865-98b3ef6a-a133-11e7-8d77-a1e5c94acf53.png)
-
+<b align="center">![image](https://user-images.githubusercontent.com/9977351/30784865-98b3ef6a-a133-11e7-8d77-a1e5c94acf53.png)</b>
 <p align="center">Fig. 1: Circuito de Potência e Acionamento
 
-![image](https://user-images.githubusercontent.com/9977351/30784884-c40f484e-a133-11e7-8b65-61cde11d77a6.png)
+<b align="center">![image](https://user-images.githubusercontent.com/9977351/30784884-c40f484e-a133-11e7-8b65-61cde11d77a6.png)</b>
 <p align="center">Fig. 2: Circuito Lógico e de Controle
 
 Programação em C
@@ -234,7 +233,7 @@ interferência nos ambientes em que foram inseridos.
 <span id="_Hlk481415487"
 class="anchor"></span><p align = "center">![image](https://user-images.githubusercontent.com/9977351/30784899-dd2b1178-a133-11e7-8ef9-dbb2fda54613.png)
 
-Fig. 6: Protótipo do Circuito Lógico e de Controle, Vista Traseira
+<p align="center">Fig. 6: Protótipo do Circuito Lógico e de Controle, Vista Traseira
 
 <span id="_Hlk481415554" class="anchor"></span><p align="justify" >A disposição do sensor
 foi escolhida para que não houvesse superposição dos fios dos
